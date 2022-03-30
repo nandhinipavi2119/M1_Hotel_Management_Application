@@ -1,1 +1,0 @@
-https://github.com/nandhinipavi2119/M1_ManagementOfHotel_App/blob/98e64eda72b273997819abf83fff417392b27698/2_Architecture/Structural%20and%20Behavioural.png
