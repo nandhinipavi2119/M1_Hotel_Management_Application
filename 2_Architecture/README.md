@@ -1,2 +1,0 @@
-# structural and Behavioural diagram
-https://github.com/nandhinipavi2119/M1_Hotel_Management_Application/blob/862d03b19b15cb1f5f586335fae3509f4dba43de/2_Architecture/Structural%20and%20Behavioural.png
