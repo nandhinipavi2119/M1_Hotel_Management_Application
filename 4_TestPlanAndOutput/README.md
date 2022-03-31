@@ -17,4 +17,5 @@ Password:
 
 
  # output 
- https://github.com/nandhinipavi2119/M1_ManagementOfHotel_App/blob/d66d13d1547706ace01b9134f7016c6af54f8792/4_TestPlanAndOutput/Hotel%20images.jpeg
+
+![Hotel images](https://user-images.githubusercontent.com/81805695/160992600-08dfa0c1-5377-4e40-bcee-761dc19e52d8.jpeg)
