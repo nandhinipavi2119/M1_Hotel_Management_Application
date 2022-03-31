@@ -76,6 +76,7 @@ Password:
 
  # output 
 
-  ![projectoutput](https://user-images.githubusercontent.com/74053403/154546120-1852fc50-358b-41a2-9a99-579b4c30b066.png)
+
+![Hotel images (1)](https://user-images.githubusercontent.com/81805695/161001543-6f5c36b1-7a10-4b3f-801e-5d6f5f9c3101.jpeg)
 
 
