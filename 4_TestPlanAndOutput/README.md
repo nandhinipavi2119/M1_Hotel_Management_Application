@@ -17,4 +17,4 @@ Password:
 
 
  # output 
- ![projectoutpuhttps://github.com/nandhinipavi2119/M1_ManagementOfHotel_App/blob/52eb2d001d6f52eff026c4582fd3ecf0061e83dd/4_TestPlanAndOutput/Hotel%20images.png)
+ https://github.com/nandhinipavi2119/M1_ManagementOfHotel_App/blob/d66d13d1547706ace01b9134f7016c6af54f8792/4_TestPlanAndOutput/Hotel%20images.jpeg
