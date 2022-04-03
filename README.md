@@ -1,4 +1,4 @@
-M1_ManagementofHotel_Application
+                           M1_ManagementofHotel_Application
 This repository is used to create Hotel Management using C programming language
 
 
